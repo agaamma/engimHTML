@@ -1,0 +1,37 @@
+:root {
+    --bg-nav:rgb(58, 58, 141);
+};
+    
+nav {
+    background-color: var(--bg-nav);
+}
+
+main{
+    background-color: aqua;
+
+}
+
+aside{ background-color: blueviolet;}
+
+/* selettore classe */
+
+.primo {
+    background-color: beige;
+    width: 200px;
+    height: 100px;
+}
+
+.secondo{ 
+    background-color: chartreuse;
+    width: 200px;
+    height: 100px;
+}
+
+.terzo{
+    background-color: coral;
+    width: 200px;
+    height: 100px;
+}
+div{
+    
+}
